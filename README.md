@@ -8,7 +8,7 @@
 
 ###### Capture d'écran du Jeu
 
-![alt text](ScreenGame.png)
+![alt text](Game/ScreenGame.png)
 
 ###### Régles du jeu
 <p><b><em>But du jeu:</em></b> Tuer le plus d'ennemies possible tant qu'on a de la vie</p>
