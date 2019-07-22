@@ -10,14 +10,13 @@
 
 ## Régles du jeu  :tv:
 <p><b><em>But du jeu:</em></b> Tuer le plus d'ennemies possible tant qu'on a de la vie</p>
-<p>Si on se fait attaquer par un ennemie, on perd de la vie.</p>
-<p>Il est possible d'obtenir de la "vie" si on prenant des "coeur"</p>
-<p>Au fur et à mesure que l'on tire avec notre arc, notre réserve de munitions se vide. En "prenant" des piéces, celui-ci augmente.</p>
+* Si on se fait attaquer par un ennemie, on perd de la vie.
+* Il est possible d'obtenir de la "vie" si on prenant des "coeur"
+* Au fur et à mesure que l'on tire avec notre arc, notre réserve de munitions se vide. En "prenant" des piéces, celui-ci augmente.
 
 ## Pour lancer le jeu  :tv:
 <p><i>Il est important d'avoir le logiciel QT Creator</i></p>
 <p>Ouvrir le fichier depuis le logiciel</p>
-<br><br>
 <p>Puis "run" le projet</p>
-<br><br>
-<p>Tuer le plus d'ennemies possible</p>
+<p>Choisir un niveau</p>
+<p>Tuer le plus d'ennemies possible et réaliser le meilleurs score possibles</p>
