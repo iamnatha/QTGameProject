@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Fleche.png</file>
+        <file>Dragon.png</file>
+        <file>Zelda.png</file>
+        <file>Fond.jpg</file>
+    </qresource>
+</RCC>

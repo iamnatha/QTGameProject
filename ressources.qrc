@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/Sounds, effects"/>
+    <qresource prefix="/Images"/>
+    <qresource prefix="/">
+        <file>Fond.jpg</file>
+        <file>Coin.png</file>
+        <file>Coeur.png</file>
+        <file>FlecheDroite.png</file>
+        <file>FlecheGauche.png</file>
+        <file>Troll.png</file>
+        <file>Dragon.png</file>
+        <file>ZeldaDroite.png</file>
+        <file>ZeldaGauche.png</file>
+        <file>FlecheHaut.png</file>
+        <file>FlecheBas.png</file>
+        <file>ZeldaHaut.png</file>
+        <file>ZeldaBas.png</file>
+        <file>SoundCoin.wav</file>
+        <file>SoundProjectile.wav</file>
+        <file>SoundPouf.wav</file>
+        <file>BackgroundMusic.mp3</file>
+        <file>SoundCoeur.mp3</file>
+        <file>ZeldaGifBas.gif</file>
+        <file>ZeldaGifDroite.gif</file>
+        <file>ZeldaGifGauche.gif</file>
+        <file>ZeldaGifHaut.gif</file>
+        <file>Troll.gif</file>
+        <file>Fond2.png</file>
+        <file>Trunk.png</file>
+        <file>Fond3.jpg</file>
+    </qresource>
+</RCC>
