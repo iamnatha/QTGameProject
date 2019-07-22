@@ -9,7 +9,7 @@
 ![alt text](ScreenProjet.png)
 
 ## Régles du jeu  :tv:
-<p>But du jeu: Tuer le plus d'ennemies possible tant qu'on a de la vie</p>
+<p><b><em>But du jeu:</em></b> Tuer le plus d'ennemies possible tant qu'on a de la vie</p>
 <p>Si on se fait attaquer par un ennemie, on perd de la vie.</p>
 <p>Il est possible d'obtenir de la "vie" si on prenant des "coeur"</p>
 <p>Au fur et à mesure que l'on tire avec notre arc, notre réserve de munitions se vide. En "prenant" des piéces, celui-ci augmente.</p>
