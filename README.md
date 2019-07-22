@@ -18,7 +18,7 @@
 
 ###### Pour lancer le jeu  :tv:
 <p><i>Il est important d'avoir le logiciel QT Creator</i></p>
-* Ouvrir le fichier depuis le logiciel
-* Puis "run" le projet
-* Choisir un niveau
+* Ouvrir le fichier depuis le logiciel<br>
+* Puis "run" le projet<br>
+* Choisir un niveau<br>
 * Tuer le plus d'ennemies possible et réaliser le meilleurs score possibles
