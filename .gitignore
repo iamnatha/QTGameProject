@@ -31,5 +31,4 @@
 *.out
 *.app
 
-# From Macbook
-.DS_Store
+
